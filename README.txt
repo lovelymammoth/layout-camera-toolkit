@@ -26,12 +26,12 @@ Manage Cameras:
 
 2. How to install
 
-i. Drag and drop the "LayoutCameraToolkit" folder in 'C:\Users\{your username}\Documents\maya\scripts'
+i. Drag and drop the "layout-camera-toolkit" folder in 'C:\Users\{your username}\Documents\maya\scripts'
 
 ii. Open Maya and in the script editor, paste the following script (replace {your username} here as well):
 
 import sys
-sys.path.append(r"C:\Users\{your username}\Documents\maya\scripts\LayoutCameraTools")
+sys.path.append(r"C:\Users\{your username}\Documents\maya\scripts\layout-camera-toolkit")
 
 import lct
 
