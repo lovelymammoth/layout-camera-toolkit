@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="first">
+    <file>lct_cover.jpg</file>
+  </qresource>
+</RCC>
